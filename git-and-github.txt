@@ -1,0 +1,4 @@
+Things I have learned about github....
+How great it is for collaboration
+It is fun to look at other open source code and try to work on it
+I have learned how to set up repositories and clone them and/or push to them.
